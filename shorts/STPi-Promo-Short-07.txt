@@ -1,0 +1,1 @@
+#07: Own the Entire Placement Engine on Your Own Servers with Docker - Ed25519-signed STP1.* licence with UNLIMITED candidates & UNLIMITED monthly sends. Deploys in 5 minutes on any Linux VPS via docker compose -f docker-compose.sovereign.yml up -d. 100% data sovereignty + Fernet-encrypted credentials on your own disk. Visit https://getstpi.pages.dev and https://whop.com/stpi

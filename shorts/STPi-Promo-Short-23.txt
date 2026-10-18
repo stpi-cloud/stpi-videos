@@ -1,0 +1,1 @@
+Onboard Agency Candidates in 2 Minutes With Single-Use Intake Links - Generate a 7-day `/intake/<token>` link right from your STPi agency dashboard. Candidate selects target countries/cities, uploads CV & certificates, and signs consent. One click on Approve in your dashboard provisions their full automated hunt. Streamline candidate onboarding at getstpi.pages.dev!

@@ -1,0 +1,1 @@
+Automatic Alerts the Moment an Employer Replies to Your Application - Read-only IMAP watcher scans your inbox for employer replies and interview invites. Separates real human recruiter responses from automated out-of-office notices. Surfaces every reply in your Activity Ledger and optional Discord/Slack webhook. Track every employer reply automatically at getstpi.pages.dev!
