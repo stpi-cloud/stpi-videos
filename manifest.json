@@ -1,0 +1,22 @@
+{
+  "repo": "stpi-cloud/stpi-videos",
+  "base_raw_url": "https://raw.githubusercontent.com/stpi-cloud/stpi-videos/main",
+  "buffer_routing": {
+    "buffer_a": [
+      "x",
+      "linkedin",
+      "pinterest"
+    ],
+    "buffer_b": [
+      "facebook",
+      "instagram",
+      "threads"
+    ],
+    "buffer_c": [
+      "youtube",
+      "tiktok",
+      "gbp"
+    ]
+  },
+  "videos": []
+}
