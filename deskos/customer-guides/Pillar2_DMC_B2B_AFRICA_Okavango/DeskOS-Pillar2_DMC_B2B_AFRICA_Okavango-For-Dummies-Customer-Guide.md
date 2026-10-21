@@ -42,6 +42,18 @@ Import `deskos-bw-okavango-sovereign-exped-910d455c_DeskOS.xlsx` into Google She
 
 ---
 
+## Everyday Use After Setup
+
+*(100% Autonomous Daily Execution runs automatically via the 07:00 CAT Daily Trigger, 2-Hour Dual-Engine Sync Trigger, and Cloudflare Edge Cron.)*
+
+From that same `🚀 STPi + DeskOS Command OS` menu directly inside Google Sheets, you or `tafa` can now at any time:
+
+- Click `4. ⚡ Provision New Pre-Populated DeskOS Unit` to pop up a box right inside Google Sheets and generate a new pre-loaded client `DeskOS` unit (`wC01..wC06` + 10 permanent calculators in `wC03`).
+- Click `5. 🌍 Run Global & Unindexed DeskOS Lead Hunt Now` to trigger a live global/unindexed hunt and drop new B2B prospects straight into Tabs 3, 4 & 7.
+- Click `6. 📡 Dispatch DeskOS Day 3+ Daily Intelligence Stream` to push fresh daily intelligence to every client `DeskOS` unit whose Dead-Sheet Switch is `ON`.
+
+---
+
 ## Mandatory Customer Care & Resolution Policy ("Contact Us First")
 
 **IMPORTANT POLICY — CONTACT US FIRST OR FACE IMMEDIATE REMOVAL:**  
