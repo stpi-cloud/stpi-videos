@@ -7,7 +7,7 @@ Dedicated public video repository powering **Buffer Account C** (`YouTube`, `Tik
 | Day | File | Duration | Size | Headline |
 | :--- | :--- | :--- | :--- | :--- |
 | Day 01 | `shorts/STPi-Promo-Short-01.mp4` | 51s | 499 KB | **#01: Stop Spending 4 Hours Every Night Rewriting CVs & Hunting Boards** |
-| Day 02 | `shorts/STPi-Promo-Short-02.mp4` | 54s | 507 KB | **#02: Every Regional Job Board Global Sites Miss — Checked 4x Daily** |
+| Day 02 | `shorts/STPi-Promo-Short-02.mp4` | 54s | 507 KB | **#02: Every Regional Job Board Global Sites Miss — Checked Daily** |
 | Day 03 | `shorts/STPi-Promo-Short-03.mp4` | 47s | 459 KB | **#03: Turn Your CV Into an Executive Multi-Page Publication in 1 Click** |
 | Day 04 | `shorts/STPi-Promo-Short-04.mp4` | 44s | 461 KB | **#04: Zero Spam Bots: You Approve Every Pack & Send From Your Own Email** |
 | Day 05 | `shorts/STPi-Promo-Short-05.mp4` | 42s | 450 KB | **#05: Too Busy to Job Hunt? Let Our Specialists Run STPi For You** |
@@ -16,14 +16,14 @@ Dedicated public video repository powering **Buffer Account C** (`YouTube`, `Tik
 | Day 08 | `shorts/STPi-Promo-Short-08.mp4` | 21s | 227 KB | **#08: Try STPi Free Today: 7-Day Cloud Trial or Free Forever Laptop Demo** |
 | Day 09 | `shorts/STPi-Promo-Short-09.mp4` | 28s | 293 KB | **#09: Yellow Speech Bubbles & Arrows Point to Every Single Button You Click** |
 | Day 10 | `shorts/STPi-Promo-Short-10.mp4` | 33s | 310 KB | **#10: Real Humans Ready to Help on WhatsApp, Email & All Social Channels** |
-| Day 11 | `shorts/STPi-Promo-Short-11.mp4` | 32s | 301.3 KB | **Every Free African Job Board Scanned 4x Daily On Autopilot** |
+| Day 11 | `shorts/STPi-Promo-Short-11.mp4` | 32s | 301.3 KB | **Every Free African Job Board Scanned Daily On Autopilot** |
 | Day 12 | `shorts/STPi-Promo-Short-12.mp4` | 32s | 284.1 KB | **Select 9, 12, or All 16 Served African Countries in One Click** |
 | Day 13 | `shorts/STPi-Promo-Short-13.mp4` | 26s | 275.8 KB | **Found a Job on WhatsApp or LinkedIn? Let STPi Build & Send the Pack** |
 | Day 14 | `shorts/STPi-Promo-Short-14.mp4` | 27s | 279.6 KB | **All 12 Executive A4 CV Designs + ATS Audit Kit for Just $19 (R350)** |
 | Day 15 | `shorts/STPi-Promo-Short-15.mp4` | 25s | 245.1 KB | **Why Generic CVs Get Rejected — And How STPi Tailors Every Send** |
 | Day 16 | `shorts/STPi-Promo-Short-16.mp4` | 24s | 241.2 KB | **Never Lose an African NGO or Corporate Role Over Missing Certificates** |
 | Day 17 | `shorts/STPi-Promo-Short-17.mp4` | 23s | 231.9 KB | **Custom Brand Hex Colours, Light/Dark Headers & Headshot Slots** |
-| Day 18 | `shorts/STPi-Promo-Short-18.mp4` | 26s | 247.4 KB | **Kenya, Uganda, Tanzania, Rwanda & Burundi — Hunted 4x Every Day** |
+| Day 18 | `shorts/STPi-Promo-Short-18.mp4` | 26s | 247.4 KB | **Kenya, Uganda, Tanzania, Rwanda & Burundi — Hunted Daily (Mon–Sat)** |
 | Day 19 | `shorts/STPi-Promo-Short-19.mp4` | 32s | 289.2 KB | **ZA, ZW, ZM, Barotseland, BW, NA, MW, LS & SZ — Complete Local Coverage** |
 | Day 20 | `shorts/STPi-Promo-Short-20.mp4` | 28s | 262.5 KB | **Kinshasa, Lubumbashi, Goma & Luanda Vacancies — Hunted Automatically** |
 | Day 21 | `shorts/STPi-Promo-Short-21.mp4` | 31s | 281.3 KB | **ReliefWeb, Impactpool, UN Duty Stations, Kubatana & Kaleta in One Feed** |
